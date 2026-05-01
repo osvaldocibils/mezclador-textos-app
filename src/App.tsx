@@ -372,7 +372,7 @@ function App() {
     <div className="min-h-screen bg-white p-4 sm:p-8">
       <div className="max-w-4xl mx-auto space-y-8">
         <div className="text-center space-y-2">
-          <h1 className="text-2xl font-bold">Mezclador de Textos. Generador de Historias y Diálogos</h1>
+          <h1 className="text-2xl font-bold">Mezclador de Textos. Generador de Historias y Diálogos.</h1>
           <p className="text-sm text-gray-500">app de artista - osvaldo cibils</p>
         </div>
         
